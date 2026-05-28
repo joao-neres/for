@@ -12,3 +12,4 @@ C:\Users\46465092883\Desktop\WorkSpace\LP\For\obj\Debug\net9.0\refint\For.dll
 C:\Users\46465092883\Desktop\WorkSpace\LP\For\obj\Debug\net9.0\For.pdb
 C:\Users\46465092883\Desktop\WorkSpace\LP\For\obj\Debug\net9.0\For.genruntimeconfig.cache
 C:\Users\46465092883\Desktop\WorkSpace\LP\For\obj\Debug\net9.0\ref\For.dll
+C:\Users\46465092883\Desktop\WorkSpace\LP\For\obj\Debug\net9.0\For.sourcelink.json

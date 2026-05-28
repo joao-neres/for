@@ -1,1 +1,17 @@
-﻿
+﻿//ArrayAtv1.Executar();
+//ArrayAtv2.Executar();
+//ArrayAtv3.Executar();
+//ArrayAtv4.Executar();
+//ArrayAtv5.Executar();
+//ArrayAtv6.Executar();
+//Atv1.Executar();
+//Atv2.Executar();
+//Atv3.Executar();
+//Atv4.Executar();
+//Atv5.Executar();
+//MatrizAtv1.Executar();
+//MatrizAtv2.Executar();
+//MatrizAtv3.Executar();
+//MatrizAtv4.Executar();
+MatrizAtv5.Executar();
+// MatrizAtv6.Executar();
